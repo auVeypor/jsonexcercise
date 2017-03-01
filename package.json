@@ -1,0 +1,20 @@
+{
+  "name": "ninecodechallenge",
+  "version": "0.0.0",
+  "description": "An example Express Node.js application.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/auVeypor"
+  },
+  "author": "veypor@veypor.net",
+  "license": "BSD",
+  "dependencies": {
+    "express": "~4.14.1",
+    "body-parser": "~1.16.1",
+    "underscore": "~1.8.3"
+  }
+}
